@@ -1,1 +1,1 @@
-# Fondamentaux de la Communication TCP & UDP en JAVA
+# Fondamentaux de la Communication (TCP & UDP) pour le système répartie en JAVA
